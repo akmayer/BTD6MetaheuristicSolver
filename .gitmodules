@@ -1,0 +1,3 @@
+[submodule "BTD6TopbarOCR"]
+    path = BTD6TopbarOCR
+    url = https://github.com/akmayer/BTD6TopbarOCR.git
