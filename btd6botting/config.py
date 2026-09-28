@@ -11,7 +11,7 @@ TOWER_Y_MIN = 150
 TOWER_Y_MAX = 950
 
 DISCORD_WEBHOOK = (
-    # Put yours in here for notifications
+    # Fill in
 )
 
 # Disable notebook-style popup visuals in script mode by default.
